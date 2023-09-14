@@ -1,0 +1,14 @@
+{
+    "Prefix": ".",
+    "Token": "asd",
+    "MongoURL": "mongodb+srv://mawar:Eg2PmYePHVwaw9qf@gt001.e9wex35.mongodb.net/?retryWrites=true&w=majority",
+    "Admin": ["1151703886206341141"],
+    "Owner": "1151478383516061729",
+    "roleBuyer": "1151478383499296887",
+    "channelTesti": "1151478385101508673",
+    "textActivity": [
+        "Main Game"
+    ],
+    "imageUrl": "https://cdn.discordapp.com/attachments/1151478384707256380/1151704155870728243/standard_1.gif",
+    "channelIdStock": "1151478384707256388"
+}
